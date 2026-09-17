@@ -50,7 +50,7 @@ Ringkasan Insight
 
 - Tren pendapatan relatif stabil Maret–Juli 2026 dengan fluktuasi wajar (±5%). Data Agustus 2026 tidak lengkap satu bulan penuh, sehingga penurunan tajam di bulan tersebut tidak mencerminkan kondisi bisnis riil dan dikecualikan dari kesimpulan tren.
 - Distribusi pendapatan antar wilayah cukup merata — selisih antara wilayah tertinggi (Madiun) dan terendah (Manado) hanya sekitar 15%, menunjukkan basis pelanggan yang tersebar rata secara geografis.
-- Rata-rata konsumsi kWh antar segmen pelanggan (Reguler, Subsidi, Prioritas) hampir seragam**, hanya berbeda 1–2%.
+- Rata-rata konsumsi kWh antar segmen pelanggan (Reguler, Subsidi, Prioritas) hampir seragam, hanya berbeda 1–2%.
 - Bogor punya tingkat transaksi bermasalah tertinggi (14.91%), sementara Banjarmasin terendah (8.79%) — rentang variasi ini menjadikan wilayah sebagai indikator risiko tunggakan yang lebih kuat dibanding segmen pelanggan.
 - PLN Mobile adalah metode pembayaran paling dominan (±63% dari seluruh transaksi), namun tingkat keberhasilan bayar antar metode pembayaran relatif mirip (11.6%–13%) — metode pembayaran bukan faktor kuat penentu ketepatan bayar.
 - Seluruh 10 pelanggan dengan konsumsi kWh tertinggi berasal dari segmen Reguler, bukan Prioritas — indikasi menarik bahwa sebagian pelanggan Reguler memiliki pola konsumsi menyerupai pelanggan bisnis/industri.
