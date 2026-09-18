@@ -4,7 +4,7 @@ Proyek analisis data menggunakan SQL (PostgreSQL) untuk mengidentifikasi pola ko
 
 Latar Belakang & Tujuan
 
-Sebagai simulasi peran data analyst, proyek ini menjawab kebutuhan bisnis: **PLN ingin memahami pola pembayaran dan konsumsi pelanggannya** untuk mengidentifikasi wilayah dan segmen pelanggan yang berisiko tinggi menunggak, serta memahami tren pendapatan dari waktu ke waktu.
+Sebagai simulasi peran data analyst, proyek ini menjawab kebutuhan bisnis: PLN ingin memahami pola pembayaran dan konsumsi pelanggannya untuk mengidentifikasi wilayah dan segmen pelanggan yang berisiko tinggi menunggak, serta memahami tren pendapatan dari waktu ke waktu.
 
 Tools yang Digunakan
 
@@ -42,7 +42,7 @@ Pertanyaan Bisnis, Query, & Insight
 
 ![Total pendapatan per bulan](screenshots/01_total_pendapatan_per_bulan.PNG)
 
-Insight: Tren pendapatan relatif stabil Maret–Juli 2026 dengan fluktuasi wajar (±5%). Data Agustus 2026 tidak lengkap satu bulan penuh, sehingga penurunan tajam di bulan tersebut **tidak mencerminkan kondisi bisnis riil** dan dikecualikan dari kesimpulan tren.
+Insight: Tren pendapatan relatif stabil Maret–Juli 2026 dengan fluktuasi wajar (±5%). Data Agustus 2026 tidak lengkap satu bulan penuh, sehingga penurunan tajam di bulan tersebut tidak mencerminkan kondisi bisnis riil dan dikecualikan dari kesimpulan tren.
 
 2. Wilayah mana yang menyumbang pendapatan terbesar?
 `queries/02_pendapatan_per_wilayah.sql`
